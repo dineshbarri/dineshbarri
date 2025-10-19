@@ -91,7 +91,7 @@
   <h3>💻 Coding & Learning Profiles</h3>
 
 &nbsp; &nbsp;&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/dinesh__97) &nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/dinesh_barri) &nbsp;
 
 
 
