@@ -87,8 +87,53 @@
 
 ## Coding Profiles
 
-<a href="https://www.kaggle.com/dinuuu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dineshbarri" height="30" width="40" /></a> 
+<div align="center">
 
+  <h3>💻 Coding & Learning Profiles</h3>
+
+  <a href="https://github.com/dineshbarri" target="_blank">
+    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+
+  <a href="https://www.kaggle.com/dinuuu" target="_blank">
+    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+
+  <a href="https://www.codechef.com/users/dinesh__97/" target="_blank">
+    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+  </a>
+
+  <a href="https://codeforces.com/profile/dinesh_barri" target="_blank">
+    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  </a>
+
+
+
+  <a href="https://medium.com/@dineshbarri" target="_blank">
+    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+
+</div>
+
+<!-- 🌗 Auto Theme Adjustment -->
+<style>
+  .icon {
+    filter: invert(1) brightness(2) contrast(1.2);
+    margin: 10px;
+    transition: transform 0.3s ease, filter 0.3s ease;
+  }
+
+  .icon:hover {
+    transform: scale(1.2);
+  }
+
+  /* If system prefers light mode, remove inversion */
+  @media (prefers-color-scheme: light) {
+    .icon {
+      filter: none;
+    }
+  }
+</style>
 
 
 
