@@ -90,29 +90,15 @@
 
   <h3>💻 Coding & Learning Profiles</h3>
 
-  <a href="https://github.com/dineshbarri" target="_blank">
-    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg#gh-light-mode-only" alt="GitHub" height="30" width="40" />
-  </a>
-
-  <a href="https://www.kaggle.com/dinuuu" target="_blank">
-    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg#gh-light-mode-only" alt="Kaggle" height="30" width="40" />
-  </a>
-
-  <a href="https://www.codechef.com/users/dinesh__97/" target="_blank">
-    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg#gh-light-mode-only" alt="CodeChef" height="30" width="40" />
-  </a>
-
-  <a href="https://codeforces.com/profile/dinesh_barri" target="_blank">
-    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg#gh-light-mode-only" alt="Codeforces" height="30" width="40" />
-  </a>
+&nbsp; &nbsp;&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/dinesh__97) &nbsp;
 
 
-
-  <a href="https://medium.com/@dineshbarri" target="_blank">
-    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg#gh-light-mode-only" alt="Medium" height="30" width="40" />
-  </a>
 
 </div>
+
+---
+
 
 
 
@@ -122,6 +108,7 @@
 &nbsp; &nbsp; &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dinesh-barri/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:dineshbarri1997@gmail.com?subject=Hello%20Dinesh,%20From%20Github) &nbsp;
+
 
 
 
