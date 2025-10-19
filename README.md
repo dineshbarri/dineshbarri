@@ -90,9 +90,25 @@
 
   <h3>💻 Coding & Learning Profiles</h3>
 
-&nbsp; &nbsp;&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/dinesh_barri) &nbsp;
+<a href="https://www.kaggle.com/dinuuu" target="_blank" rel="noopener noreferrer">
+  <img src="images/kaggle.jpeg" alt="Kaggle" width="44" height="44" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<a href="https://www.codechef.com/users/dinesh_barri" target="_blank" rel="noopener noreferrer">
+  <img src="images/codechef.png" alt="CodeChef" width="44" height="44" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://codeforces.com/profile/dinesh_barri" target="_blank" rel="noopener noreferrer">
+  <img src="images/codeforces.png" alt="Codeforces" width="44" height="44" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://br.spoj.com/SPOJ/users/dineshbarri/" target="_blank" rel="noopener noreferrer">
+  <img src="images/hackerrank.png" alt="HackerRank" width="44" height="44" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://medium.com/@dineshbarri" target="_blank" rel="noopener noreferrer">
+  <img src="images/medium.jpeg" alt="Medium" width="44" height="44" />
+</a>
 
 
 </div>
