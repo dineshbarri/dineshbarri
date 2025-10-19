@@ -14,7 +14,7 @@
 📊 Passionate about turning raw data into meaningful insights and predictive solutions.<br/>
 👨‍💻   Interests: Artificial Intelligence, Machine Learning, Data Science.<br/>
 🌱 #learninginpublic — continuously improving my skills in Python, SQL, and visualization tools.<br/>
-📷   My hobbies include Playing Chess, Cricket, and Table Tennis
+📷   My hobbies include Playing Chess, Cricket, and Table Tennis.<br/>
 📝 Checkout my [Resume](https://drive.google.com/drive/folders/1eKEQt7wMJNh1sA2Y_KlWHcN_li4K1HEd?usp=sharing)
 
 ---
