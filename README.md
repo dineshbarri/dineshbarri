@@ -95,13 +95,14 @@
   <img src="images/kaggle.jpeg" alt="Kaggle" width="44" height="44" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<a href="https://codeforces.com/profile/dinesh_barri" target="_blank" rel="noopener noreferrer">
+  <img src="images/codeforces.png" alt="Codeforces" width="44" height="44" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.codechef.com/users/dinesh_barri" target="_blank" rel="noopener noreferrer">
   <img src="images/codechef.png" alt="CodeChef" width="44" height="44" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://codeforces.com/profile/dinesh_barri" target="_blank" rel="noopener noreferrer">
-  <img src="images/codeforces.png" alt="Codeforces" width="44" height="44" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://br.spoj.com/SPOJ/users/dineshbarri/" target="_blank" rel="noopener noreferrer">
   <img src="images/hackerrank.png" alt="HackerRank" width="44" height="44" />
