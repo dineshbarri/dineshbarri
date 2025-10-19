@@ -80,8 +80,8 @@
 ---
 ## 🎓 Education
 
-- **MSc Data Science** — Dublin Business School, Ireland.
-- **Bachelors Computer Science** — Gayatri Vidya Parishad College of Engineering, India
+- **MSc Data Science** — Dublin Business School, Ireland.(2:1 Honors)
+- **Bachelors Computer Science** — Gayatri Vidya Parishad College of Engineering, India(8.1 CGPA)
 
 ---
 
