@@ -78,6 +78,19 @@
 
 
 ---
+## 🎓 Education
+
+- **MSc Data Science** — Dublin Business School, Ireland.
+- **Bachelors Computer Science** — Gayatri Vidya Parishad College of Engineering, India
+
+---
+
+## Coding Profiles
+
+<a href="https://www.kaggle.com/dinuuu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dineshbarri" height="30" width="40" /></a> 
+
+
+
 
 ## 📬 Get in Touch
 
