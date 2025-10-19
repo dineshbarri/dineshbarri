@@ -115,25 +115,6 @@
 
 </div>
 
-<!-- 🌗 Auto Theme Adjustment -->
-<style>
-  .icon {
-    filter: invert(1) brightness(2) contrast(1.2);
-    margin: 10px;
-    transition: transform 0.3s ease, filter 0.3s ease;
-  }
-
-  .icon:hover {
-    transform: scale(1.2);
-  }
-
-  /* If system prefers light mode, remove inversion */
-  @media (prefers-color-scheme: light) {
-    .icon {
-      filter: none;
-    }
-  }
-</style>
 
 
 
