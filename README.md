@@ -12,9 +12,9 @@
 👨🏻‍💻 Data Analyst & Aspiring Data Scientist sharing my journey and learnings in data and AI.<br/>
 🎓 Background in Computer Science with hands-on experience in Machine Learning & Analytics.<br/>
 📊 Passionate about turning raw data into meaningful insights and predictive solutions.<br/>
-🧠 Exploring the intersection of data, AI, and real-world decision-making.<br/>
+👨‍💻   Interests: Artificial Intelligence, Machine Learning, Data Science.<br/>
 🌱 #learninginpublic — continuously improving my skills in Python, SQL, and visualization tools.<br/>
-📈 Currently working on projects in predictive modeling, dashboarding, and data storytelling.<br/>
+📷   My hobbies include Playing Chess, Cricket, and Table Tennis
 📝 Checkout my [Resume](https://drive.google.com/drive/folders/1eKEQt7wMJNh1sA2Y_KlWHcN_li4K1HEd?usp=sharing)
 
 ---
