@@ -15,6 +15,7 @@
 🧠 Exploring the intersection of data, AI, and real-world decision-making.<br/>
 🌱 #learninginpublic — continuously improving my skills in Python, SQL, and visualization tools.<br/>
 📈 Currently working on projects in predictive modeling, dashboarding, and data storytelling.<br/>
+📝 Checkout my [Resume](https://drive.google.com/drive/folders/1eKEQt7wMJNh1sA2Y_KlWHcN_li4K1HEd?q=sharedwith:public%20parent:1eKEQt7wMJNh1sA2Y_KlWHcN_li4K1HEd%20type:pdf)
 
 ---
 
