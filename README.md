@@ -97,7 +97,7 @@
 
 <a href="https://public.tableau.com/app/profile/dinesh.barri8170" target="_blank" rel="noopener noreferrer">
   <img src="images/tableau.png" alt="Tableau" width="44" height="44" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/dinesh_barri" target="_blank" rel="noopener noreferrer">
   <img src="images/codeforces.png" alt="Codeforces" width="44" height="44" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
