@@ -95,6 +95,9 @@
   <img src="images/kaggle.jpeg" alt="Kaggle" width="44" height="44" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<a href="https://public.tableau.com/app/profile/dinesh.barri8170" target="_blank" rel="noopener noreferrer">
+  <img src="images/tableau.jpeg" alt="Tableau" width="44" height="44" />
+</a>
 <a href="https://codeforces.com/profile/dinesh_barri" target="_blank" rel="noopener noreferrer">
   <img src="images/codeforces.png" alt="Codeforces" width="44" height="44" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -111,6 +114,8 @@
 <a href="https://medium.com/@dineshbarri" target="_blank" rel="noopener noreferrer">
   <img src="images/medium.jpeg" alt="Medium" width="44" height="44" />
 </a>
+
+
 
 
 </div>
