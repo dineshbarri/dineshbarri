@@ -120,19 +120,30 @@
 
 </div>
 
----
+</div><br>
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 
-
-
-## 📬 Get in Touch
+### 📬 Get in Touch
 
 &nbsp; &nbsp; &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dinesh-barri/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:dineshbarri1997@gmail.com?subject=Hello%20Dinesh,%20From%20Github) &nbsp;
 
----
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dineshbarri&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 Thanks for visiting! Open to connecting or collaborating. 🚀
 
