@@ -39,7 +39,6 @@ me.say_hi()
 ```
 
 
-🎯 **Currently Focusing On:** Building end-to-end ML pipelines, exploring AI Agents, and contributing to open-source projects  
 📫 **How to reach me:** [dineshbarri1997@gmail.com](mailto:dineshbarri1997@gmail.com)  
 📄 **Resume:** [View My Resume](https://github.com/dineshbarri/dineshbarri/blob/main/assets/Dinesh_Barri_DataAnalyst_Resume.pdf)  
 
