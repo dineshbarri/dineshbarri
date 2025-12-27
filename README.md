@@ -133,18 +133,6 @@ If you’ve found my content helpful — tutorials, code, or videos — and want
 ---
 
 
----
-## 🎓 Education
-
-| 🎓 Degree | 🏫 Institution | 📍 Location | 📅 Year | 🏆 Achievement |
-|-----------|---------------|------------|---------|--------------|
-| **MSc Data Science** | Dublin Business School | Dublin, Ireland | 2023-2024 | 1:1 Honours |
-| **B.Tech Computer Science** | Gayatri Vidya Parishad College of Engineering | India | 2015-2019 | 8.1 CGPA |
-
----
-
-
-
 ## 💻 Coding & Learning Platforms
 
 <p align="center">
