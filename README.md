@@ -41,7 +41,7 @@ me.say_hi()
 
 📫 **How to reach me:** [dineshbarri1997@gmail.com](mailto:dineshbarri1997@gmail.com)  
 📄 **Resume:** [View My Resume](https://github.com/dineshbarri/dineshbarri/blob/main/assets/Dinesh_Barri_DataAnalyst_Resume.pdf)  
-
+♟️ Fun Challenge: Think you can beat me at chess? Let’s find out → Play me on [Chess.com](https://www.chess.com/member/dinesh_gvp)
 
 ---
 
