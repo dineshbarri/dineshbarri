@@ -54,7 +54,7 @@ me.say_hi()
 ♟️ Fun Challenge: Think you can beat me at chess? Let’s find out → Play me on [Chess.com](https://www.chess.com/member/dinesh_gvp)
 
 ---
-
+<div align="center">
 
 ## 💸 Support My Work 🤝	
 
@@ -152,6 +152,7 @@ If you’ve found my content helpful — tutorials, code, or videos — and want
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+</div>
 
 ---
 
