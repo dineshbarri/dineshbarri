@@ -238,10 +238,10 @@ If you’ve found my content helpful — tutorials, code, or videos — and want
 ## 💡 Fun Facts
 
 - ♟️ **Chess Enthusiast**: Rated 2300+ on Chess.com
-- 🏏 **Cricket Fan**: Love analyzing cricket statistics
+- 🏏 **Cricket Fan**: Love analysing cricket statistics
 - 🧩 **Problem Solver**: Solved 500+ coding challenges across platforms
-- 🌍 **Traveler**: Passionate about exploring new cultures and cuisines
-- 📖 **Continuous Learner**: Always learning new technologies and techniques
+- 🌍 **Based in Dublin**: Building data, AI and automation projects for real-world use cases
+- 📖 **Continuous Learner**: Exploring GenAI, AI agents, analytics engineering and ML deployment
 
 ---
 
