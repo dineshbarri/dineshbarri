@@ -1,12 +1,21 @@
-
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> Hi there, I'm [Dinesh Barri](https://dineshbarri-portfolio.vercel.app)!
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> Hi there, I'm [Dinesh Barri](https://dineshbarri.dev)!
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&weight=900&size=28&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=800&height=60&lines=Data+Explorer+%F0%9F%9A%80+%7C+ML+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Actionable+Insights+%F0%9F%93%8A;Building+AI-Powered+Solutions+%E2%9A%A1;Competitive+Programmer+%7C+Pro+Chess+Player+%E2%99%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&weight=900&size=28&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=900&height=60&lines=Data+Analyst+%7C+AI+Automation+Engineer;Founder+%40+Plemdo+AI+%F0%9F%9A%80;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+GenAI+%E2%80%A2+AI+Agents;Building+Data%2C+ML+%26+Automation+Projects)](https://git.io/typing-svg)
 
 </div>
 
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-dineshbarri.dev-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://dineshbarri.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh%20Barri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-barri/)
+[![Resume](https://img.shields.io/badge/Resume-View%20CV-2EA44F?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/dineshbarri/dineshbarri/raw/main/assets/Dinesh_Barri_CV.pdf)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshbarri1997@gmail.com)
+
+</div>
+
+---
 
 <div align="center">
   <h2>
@@ -16,26 +25,28 @@
   </h2>
 </div>
 
-
-
-```
+```python
 class DineshBarri:
     def __init__(self):
         self.name = "Dinesh Barri"
-        self.role = "Data Analyst | Data Scientist | AI Enthusiast"
         self.location = "Dublin, Ireland 🇮🇪"
-        self.education = {
-            "masters": "MSc Data Science - Dublin Business School (2:1 Honours)"
-        }
-        self.interests = ["AI/ML", "Data Analytics", "Deep Learning", "MLOps", "AI Agents"]
-        self.hobbies = ["Chess ♟️", "Cricket 🏏", "Table Tennis 🏓", "Competitive Programming 💻"]
-    
+        self.role = "Data Analyst | AI Automation Engineer | Founder @ Plemdo AI"
+        self.education = "MSc Data Science and Analytics - Dublin Business School (2:1 Honours)"
+        self.focus = [
+            "Data Analytics & Business Intelligence",
+            "Python, SQL, Power BI and Dashboards",
+            "GenAI, AI Agents and Automation Workflows",
+            "Machine Learning, APIs and Applied AI Projects"
+        ]
+        self.currently_building = "Plemdo AI - AI automation and conversational analytics systems"
+
     def say_hi(self):
-        print("Thanks for dropping by! Let's turn data into insights together! 🚀")
+        print("Turning raw data, business questions and manual workflows into scalable analytics and AI solutions 🚀")
 
 me = DineshBarri()
 me.say_hi()
 ```
+
 
 
 📫 **How to reach me:** [dineshbarri1997@gmail.com](mailto:dineshbarri1997@gmail.com)  
