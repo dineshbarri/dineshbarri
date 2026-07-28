@@ -207,7 +207,7 @@ If you’ve found my content helpful — tutorials, code, or videos — and want
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
   
-  <a href="https://www.chess.com/member/dinesh_gvp" target="_blank">
+  <a href="https://www.chess.com/member/dinesh_barri" target="_blank">
     <img src="https://img.shields.io/badge/Chess.com-7FA650?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com" />
   </a>
 </p>
