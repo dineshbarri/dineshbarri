@@ -10,7 +10,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dineshbarri.dev-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://dineshbarri.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh%20Barri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-barri/)
-[![Resume](https://img.shields.io/badge/Resume-View%20CV-2EA44F?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/dineshbarri/dineshbarri/raw/main/assets/Dinesh_Barri_CV.pdf)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshbarri1997@gmail.com)
 
 </div>
